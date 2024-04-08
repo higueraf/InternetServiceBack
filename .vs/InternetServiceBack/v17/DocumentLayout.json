@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|c:\\users\\detpc\\documents\\bootcamp\\proyectointegradorfranciscohiguera\\internetserviceback\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|c:\\users\\detpc\\documents\\bootcamp\\proyectointegradorfranciscohiguera\\internetserviceback\\dtos\\client\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|solutionrelative:dtos\\client\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|c:\\users\\detpc\\documents\\bootcamp\\proyectointegradorfranciscohiguera\\internetserviceback\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|c:\\users\\detpc\\documents\\bootcamp\\proyectointegradorfranciscohiguera\\internetserviceback\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|c:\\users\\detpc\\documents\\bootcamp\\proyectointegradorfranciscohiguera\\internetserviceback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|c:\\users\\detpc\\documents\\bootcamp\\proyectointegradorfranciscohiguera\\internetserviceback\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|c:\\users\\detpc\\documents\\bootcamp\\proyectointegradorfranciscohiguera\\internetserviceback\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45047A17-D4AB-4BA9-AB11-3A441950131C}|InternetServiceBack.csproj|solutionrelative:dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:26:04.746Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Dtos\\Client\\ClientDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Client\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Dtos\\Client\\ClientDto.cs",
+              "RelativeToolTip": "Dtos\\Client\\ClientDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA+wAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:54:45.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAlwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:54:35.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserBll.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Bll\\UserBll.cs",
+              "RelativeDocumentMoniker": "Bll\\UserBll.cs",
+              "ToolTip": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Bll\\UserBll.cs",
+              "RelativeToolTip": "Bll\\UserBll.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswFoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:19:10.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:10:43.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:07:43.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Dtos\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\DETPC\\Documents\\BootCamp\\ProyectoIntegradorFranciscoHiguera\\InternetServiceBack\\Dtos\\User\\UserDto.cs",
+              "RelativeToolTip": "Dtos\\User\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:07:34.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
